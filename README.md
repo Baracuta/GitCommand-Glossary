@@ -13,3 +13,5 @@ List of Commands to use for this project:
 - Git init
 - Git log
 - Git pull
+- Git push
+- Git revert
