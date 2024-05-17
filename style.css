@@ -15,7 +15,14 @@ h3{
     text-align: center;
 }
 
-dl{
+.dt{
+    display: block;
+    block-size: 5%;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.dd{
     display: block;
     block-size: 5%;
     align-items: center;
