@@ -4,7 +4,10 @@ header {
     font-family: 'Times New Roman', Times, serif;
 }
 
-main {
+dt {    
+    flex: auto;
+    flex-wrap: wrap;
+    flex-basis: content;
     align-items: center;
     font-family: 'Times New Roman', Times, serif;
 }
