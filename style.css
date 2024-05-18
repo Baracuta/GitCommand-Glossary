@@ -1,17 +1,10 @@
-.h1{
+header {
     text-align:center;
     font-size: larger;
     font-family: 'Times New Roman', Times, serif;
 }
 
-.h3{
-    font-size: large;
-    font-family:'Times New Roman', Times, serif;
-    text-align: center;
-}
-
-
-.dl{
+main {
     display: flex;
     flex-wrap: wrap;
     flex-basis: auto;
