@@ -1,6 +1,7 @@
 body {
     background-color: lightblue;
     padding: 20px;
+    border: 1cm;
     border-radius: 10px;
     border-color: slategray;
     
@@ -13,7 +14,7 @@ header {
     font-family: 'Times New Roman', Times, serif;
 }
 
-dt {    
+dd {    
     flex: auto;
     flex-wrap: wrap;
     flex-basis: content;
