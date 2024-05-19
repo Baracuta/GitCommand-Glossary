@@ -18,8 +18,10 @@ text {
     color: black;
 }
 
-hr {
-    color: black;
+
+/*This bit here, below, just isn't working at all*/
+hr {}
+    
 }
 
 dd {    
