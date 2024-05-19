@@ -14,6 +14,14 @@ header {
     font-family: 'Times New Roman', Times, serif;
 }
 
+text {
+    color: black;
+}
+
+hr {
+    color: black;
+}
+
 dd {    
     flex: auto;
     flex-wrap: wrap;
