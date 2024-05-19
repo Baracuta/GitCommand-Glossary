@@ -20,9 +20,10 @@ text {
 
 
 /*This bit here, below, just isn't working at all*/
-hr {}
+hr {
     
 }
+    
 
 dd {    
     flex: auto;
