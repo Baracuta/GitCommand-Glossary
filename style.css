@@ -20,7 +20,10 @@ header {
 
 }
 
-.data table dt,
+.data table dt {
+    margin-bottom: 2px;
+    text-align: center;
+}
 .data_table dd {
     margin-bottom: 4px;
     text-align: center;
