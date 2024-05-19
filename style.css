@@ -1,3 +1,12 @@
+body {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: slategray;
+    
+}
+
+
 header {
     text-align:right;
     font-size: larger;
