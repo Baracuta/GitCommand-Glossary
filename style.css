@@ -20,6 +20,9 @@ header {
 
 }
 
+.term
+    text-align:center
+
 .data table dt {
     margin-bottom: 2px;
     text-align: center;
