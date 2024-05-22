@@ -30,6 +30,8 @@ dd{
     font-size: 23px;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 40%;
+    padding-right: 40%;
 }
 .box{
     background-color: rgb(207, 179, 135);
