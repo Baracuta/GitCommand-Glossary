@@ -21,13 +21,7 @@ header {
 }
 
 dt{
-    border-color: black;
-    margin: 5px;
-    padding: 10px;
     font-size: 25px;
-    border-radius: 30px;
-    border-width: 20px;
-    background-color: rgb(219, 221, 223);
 }
 
 dd{
@@ -37,4 +31,11 @@ dd{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
+.box{
+    background-color: rgb(219, 221, 223);
+    border-radius: 30px;
+    border-width: 20px;
+    margin: 5px;
+    padding: 10px;
+    border-color: black;
+}
