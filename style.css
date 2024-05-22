@@ -15,10 +15,8 @@ header {
 
 .data_table {
     display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
+    flex-direction: row wrap;
     -ms-flex-align: center;
-    justify-content: space-between;
     flex-basis: auto;
     align-items: center;
 }
@@ -32,16 +30,16 @@ dd{
     font-size: 23px;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding-left: 40%;
-    padding-right: 40%;
+    padding-left: 25%;
+    padding-right: 25%;
 }
 .box{
+    box-sizing: content-box;
+        width: 800px;
+        border: solid black;
+        padding: 5px
+        border: radius 25px;;
     background-color: rgb(207, 179, 135);
-    border-radius: 30px;
-    border-width: 20px;
     margin: 5px;
-    margin-left: 200px;
-    margin-right: 200px;
     padding: 10px;
-    border-color: black;
 }
