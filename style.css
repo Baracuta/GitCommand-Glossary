@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(153, 100, 79);
+    background-color: rgb(223, 104, 58);
     padding: 20px;
     
 }
@@ -15,9 +15,9 @@ header {
 
 .data_table {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
-    flex: 2;
+    flex-basis: 2;
     align-items: center;
 }
 
@@ -28,8 +28,6 @@ dt{
 
 dd{
     font-size: 23px;
-    margin-left: 40%;
-    margin-right: 40%;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -38,6 +36,8 @@ dd{
     border-radius: 30px;
     border-width: 20px;
     margin: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
     padding: 10px;
     border-color: black;
 }
