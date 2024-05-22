@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(160, 82, 51);
+    background-color: rgb(153, 100, 79);
     padding: 20px;
     
 }
@@ -23,7 +23,7 @@ header {
 
 dt{
     font-size: 25px;
-    align-items: center;
+    text-align: center;
 }
 
 dd{
@@ -34,7 +34,7 @@ dd{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .box{
-    background-color: rgb(230, 178, 100);
+    background-color: rgb(207, 179, 135);
     border-radius: 30px;
     border-width: 20px;
     margin: 5px;
