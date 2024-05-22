@@ -12,23 +12,11 @@ header {
 }
 
 .data table {
-    display:inline-block;
-    overflow:visible;
-    text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
     background:fixed;
     background-color: slategray;
 
-}
-
-.term {
-    text-align:center
-}
-
-.data table dt {
-    margin-bottom: 2px;
-    text-align: center;
-}
-.data_table dd {
-    margin-bottom: 4px;
-    text-align: center;
 }
