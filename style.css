@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(183, 219, 231);
+    background-color: rgb(160, 82, 51);
     padding: 20px;
     
 }
@@ -17,11 +17,13 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    flex: 2;
     align-items: center;
 }
 
 dt{
     font-size: 25px;
+    align-items: center;
 }
 
 dd{
@@ -32,7 +34,7 @@ dd{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .box{
-    background-color: rgb(219, 221, 223);
+    background-color: rgb(230, 178, 100);
     border-radius: 30px;
     border-width: 20px;
     margin: 5px;
