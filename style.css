@@ -3,10 +3,12 @@ body {
     padding: 20px;
     
 }
-
+main{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 
 header {
-    text-align:right;
+    text-align:center;
     font-size: larger;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -16,7 +18,12 @@ header {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    background:fixed;
     background-color: slategray;
+}
 
+dt{
+    border-color: black;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 20px;
 }
