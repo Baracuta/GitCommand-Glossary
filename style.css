@@ -23,7 +23,15 @@ header {
 
 dt{
     border-color: black;
-    border-radius: 5px;
     margin: 5px;
-    padding: 20px;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 30px;
+    border-width: 2px;
 }
+
+dd{
+    font-size: 15px;
+    size: 20%;
+}
+
