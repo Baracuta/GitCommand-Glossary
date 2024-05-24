@@ -23,6 +23,7 @@ header {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    flex:  1 0 30%;
     align-items: center;
 }
 
@@ -47,7 +48,4 @@ dd{
     background-color:rgb(207, 179, 135);
     margin-left: 10%;
     margin-right: 10%;
-    flex: 1 0 42%;
-   
-
 }
