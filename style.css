@@ -40,7 +40,7 @@ dd{
 .box{
     box-sizing: content-box;
         width: 35%;
-        height: 10%;
+        height: 100px;
         border: solid black;
         padding: 5px;
         border: radius 25px;
