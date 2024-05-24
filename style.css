@@ -23,7 +23,6 @@ header {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    flex:  1 0 50%;
     align-items: center;
 }
 
@@ -41,7 +40,7 @@ dd{
 }
 .box{
     box-sizing: content-box;
-        width: 20%;
+        width: 40%;
         border: solid black;
         padding: 5px;
         border: radius 25px;
