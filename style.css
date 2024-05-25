@@ -35,13 +35,11 @@ dd{
 .box{
     box-sizing: content-box;
         width: 35%;
-        height: fit-content;
+        height: min-content;
         border: solid black;
         padding: 2px;
         border: radius 5px;
     background-color:rgb(207, 179, 135);
-    margin-left: 2%;
     margin-top: 1%;
     margin-bottom: 1%;
-    margin-right: 2%;
 }
