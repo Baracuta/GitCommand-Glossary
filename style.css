@@ -35,7 +35,7 @@ dd{
 .box{
     box-sizing: content-box;
         width: 35%;
-        height: 20%;
+        height: clamp(125px, 20%, 400px);
         border: solid black;
         padding: 2px;
         border: radius 5px;
