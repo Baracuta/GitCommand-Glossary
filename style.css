@@ -35,10 +35,9 @@ dd{
 .box{
     box-sizing: content-box;
         width: clamp(400px, 600px, 800px);
-        height: 0;
+        height: 0+30%;
         border: solid black;
         padding: 2px;
-        border-bottom: 50%;
         border: radius 5px;
     background-color:rgb(207, 179, 135);
     margin-top: 1%;
