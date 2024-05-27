@@ -18,6 +18,7 @@ header {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    flex-basis: 30%;
 }
 
 dt{
