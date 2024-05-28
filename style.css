@@ -38,6 +38,9 @@ h3{
     margin-right: 10%;
     border-left: solid black;
     border-right: solid black;
+    border-bottom: solid black;
+    border-top: solid black;
+    background-color:antiquewhite
 
 }
 
