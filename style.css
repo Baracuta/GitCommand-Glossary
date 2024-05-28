@@ -11,6 +11,14 @@ header {
     text-align:center;
     font-size: larger;
     font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1{
+    border-bottom: solid black;
+}
+
+h3{
     border-bottom: solid black;
 }
 
@@ -39,7 +47,7 @@ dd{
         height: 0+30%;
         border: solid black;
         padding: 2px;
-        border-radius: 50%;
+        border-radius: 5%;
     background-color:rgb(207, 179, 135);
     margin-top: 1%;
     margin-bottom: 1%;
