@@ -26,9 +26,9 @@ h3{
     font-size: 30px;
     margin-left: 20%;
     margin-right: 20%;
-    background-color: rgb(207, 179, 135);
-    border-bottom-left-radius: 15%;
-    border-bottom-right-radius: 15%;
+    background-color: antiquewhite;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
 }
 
 .data_table {
@@ -43,7 +43,7 @@ h3{
     border-bottom: solid black;
     border-top: solid black;
     background-color:antiquewhite;
-    border-radius: 10%;
+    border-radius: 5%;
 
 
 }
