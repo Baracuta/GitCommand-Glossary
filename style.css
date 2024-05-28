@@ -24,6 +24,9 @@ h3{
     border-bottom: solid black;
     padding: 15px;
     font-size: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(207, 179, 135);
 }
 
 .data_table {
@@ -33,6 +36,9 @@ h3{
     justify-content: space-evenly;
     margin-left: 10%;
     margin-right: 10%;
+    border-left: solid black;
+    border-right: solid black;
+
 }
 
 dt{
@@ -53,7 +59,7 @@ dd{
         height: 0+30%;
         border: solid black;
         padding: 2px;
-        border-radius: 10%;
+        border-radius: 15%;
     background-color:rgb(207, 179, 135);
     margin-top: 1%;
     margin-bottom: 1%;
