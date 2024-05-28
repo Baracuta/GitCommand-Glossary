@@ -9,16 +9,19 @@ main{
 
 header {
     text-align:center;
-    font-size: larger;
     font-family: 'Times New Roman', Times, serif;
 
 }
 
+h1{
+    font-size: 40px;
+}
 
 h3{
     border-top: solid black;
     border-bottom: solid black;
     padding: 15px;
+    font-size: 30px;
 }
 
 .data_table {
