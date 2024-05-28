@@ -15,6 +15,9 @@ header {
 
 h1{
     font-size: 40px;
+    text-shadow: 1px 1px 2px white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
 }
 
 h3{
@@ -47,7 +50,7 @@ dd{
 }
 .box{
     box-sizing: content-box;
-        width: clamp(20%, 40%, 40%);
+        width: clamp(400px, 40%, 40%);
         height: 0+30%;
         border: solid black;
         padding: 2px;
