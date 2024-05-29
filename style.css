@@ -17,6 +17,7 @@ h1{
     font-size: 60px;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: white;
+    border: solid black;
 }
 
 h3{
