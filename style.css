@@ -15,14 +15,11 @@ header {
 
 h1{
     font-size: 80px;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: white;
     border: solid black;
-    font-family:'Courier New', Courier, monospace;
     background-color: antiquewhite;
     margin-left: 10%;
     margin-right: 10%;
-    
+
 }
 
 h3{
