@@ -14,10 +14,15 @@ header {
 }
 
 h1{
-    font-size: 60px;
-    -webkit-text-stroke-width: 2px;
+    font-size: 80px;
+    -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: white;
     border: solid black;
+    font-family:'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+    margin-left: 10%;
+    margin-right: 10%;
+    
 }
 
 h3{
@@ -27,8 +32,8 @@ h3{
     border-right: solid black;
     padding: 15px;
     font-size: 30px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
     background-color: antiquewhite;
     border-bottom-left-radius: 30%;
     border-bottom-right-radius: 30%;
